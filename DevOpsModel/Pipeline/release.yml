@@ -21,14 +21,7 @@ Parameters:
     Default: /service/demo-cicd-pipeline/lambda/name
 
 Resources:
-  ######   #######  ##     ## ########   ######  ########
-  ##    ## ##     ## ##     ## ##     ## ##    ## ##
-  ##       ##     ## ##     ## ##     ## ##       ##
-  ######  ##     ## ##     ## ########  ##       ######
-  ## ##     ## ##     ## ##   ##   ##       ##
-  ##    ## ##     ## ##     ## ##    ##  ##    ## ##
-  ######   #######   #######  ##     ##  ######  ########
-
+ 
   # CodeBuild project and resources (S3 Bucket for build artifacts, Role, Project)
   BuildArtifactsBucket:
     Type: AWS::S3::Bucket
