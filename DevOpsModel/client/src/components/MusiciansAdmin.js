@@ -113,7 +113,7 @@ export default class MusiciansAdmin extends Component {
                   <div className="field">
                     <div className="control">
                       <button type="submit" className="button is-primary is-medium">
-                        Add musician
+                        Del musicians
                       </button>
                     </div>
                   </div>
