@@ -1,4 +1,4 @@
-# musician-app
-NodeJS / React sample app for AWS CI/CD pipeline tutorial
+# DevOps Model sample for the Elastic beanstalk
+NodeJS / React sample app for AWS CI/CD pipeline 
 
-https://www.youtube.com/watch?v=NwzJCSPSPZs
+
